@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-gianni11221
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: secrets.subscriptionId
+  SUBSCRIPTION-ID: 112d2bc0-49df-4764-97af-ab0ae5dd33df
   WEBAPP-NAME: eshoponweb-webapp-grahh
 
 
